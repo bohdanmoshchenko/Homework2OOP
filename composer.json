@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Vendor\\Reporter\\": "src"}
+    },
+    "require": {
+        "php": "> 5.6"
+    }
+}
